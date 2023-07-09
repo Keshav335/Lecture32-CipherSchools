@@ -1,0 +1,19 @@
+REST(Representational State Transfer).
+
+API(Application programming interface).
+
+[REST API] is an API that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+
+REST API will have 2 parts: 1.URL 2.HTTP method.
+
+REST uses less bandwidth, making it more suitable for efficient internet usage. 
+
+RESTful APIs can also be built with programming languages such as JavaScript or Python.
+
+A RESTful API uses existing HTTP methodologies defined by the RFC 2616 protocol, such as:
+[GET] to retrieve a resource;
+[PUT] to change the state of or update a resource, which can be an object, file or block;
+[POST] to create that resource; and
+[DELETE] to remove it.
+
+
